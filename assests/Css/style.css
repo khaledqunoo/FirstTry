@@ -1,0 +1,39 @@
+.header{background-color: #242b35 ;height: 40px}
+.header h1{margin: 0px ;color:white;margin-left: 30px}
+.header h1 span{color: red}
+/*=====================================================================================================*/
+.imagetext {background-color:#00c8d7 ;min-height: 397px;padding-top: 30px}
+
+.imagetext .row .text .row b{color: white;font-size: 30px}
+
+.imagetext .row .text .row p{color: white;font-size: 15px}
+
+._btn{overflow: hidden ;margin: 40px 0px 23px 0px}
+
+.imagetext .container-fluid .row .text .row p,b{max-width: 750px}
+
+._btn .first_btn,.second_btn {background-color:white;height: 50px ;width: 200px;float: left;
+    margin: 0px 30px 10px 38px  ;border-bottom-right-radius: 5px;border-top-right-radius:5px ;border-bottom-left-radius:5px ;border-top-left-radius:5px ;box-shadow: 1px 1px 1px 1px;}
+
+._btn .first_btn:hover{background-color:white;height: 50px ;width: 200px;float: left;
+    margin: 0px 30px 10px 38px  ;border-bottom-right-radius: 5px;border-top-right-radius:5px ;border-bottom-left-radius:5px ;border-top-left-radius:5px ;box-shadow:  3px 3px 1px 1px}
+
+._btn .second_btn:hover{background-color:white;height: 50px ;width: 200px;float: left;
+    margin: 0px 30px 10px 38px  ;border-bottom-right-radius: 5px;border-top-right-radius:5px ;border-bottom-left-radius:5px ;border-top-left-radius:5px ;box-shadow:  3px 3px 1px 1px}
+
+._btn .first_btn i{font-size:30px;margin: 10px 10px 10px 10px;color: #9da3ab;}
+
+._btn .first_btn b{margin-left: 60px}
+
+._btn .second_btn i{font-size:25px;margin: 10px 10px 10px 10px;color: #9da3ab}
+
+._btn ._btn_style{height: 50px ;width:53px;border-right-style: solid;border-right-color:#d8dcdd ;border-right-width: 1px;background-color:#edeeef ;border-bottom-left-radius:5px ;border-top-left-radius:5px }
+
+
+/*=====================================================================================================*/
+.row .col-lg-4 .row{text-align: center ;margin: auto}
+.colums .row{margin:10px 20px 5px 10px }
+.colums b i{font-size: 60px ;margin-right: 15px;margin-top: 20px;margin-bottom: 20px}
+/*=====================================================================================================*/
+.footer{text-align: center ;margin: auto ;color: white ;background-color: #242b35;}
+.footer p{margin: 0px ;padding: 0px}
